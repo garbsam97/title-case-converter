@@ -1,5 +1,5 @@
 {
-  "name": "@garbsam97/title-case-converter",
+  "name": "title-case-converter-garbsam97",
   "version": "1.0.0",
   "description": "Capitalizes the first letter of every word in a sentence.",
   "main": "app.js",
